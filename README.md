@@ -22,14 +22,14 @@
 | 90  | 95 |
 | 95  | 90 |
 
-<br>
-#### 目录中图片
+#### picture in catalogue
+
 *img*
 <br>
 
 ![frame 目录文件图象](frame1.png)
 
-#### 学习网站 ####
+#### 学习网站 
 [智慧树](http://jlu.fy.chaoxing.com/portal)
 <br>
 
