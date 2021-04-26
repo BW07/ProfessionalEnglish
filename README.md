@@ -6,7 +6,7 @@
 ~~this line will be deleted~~
 
 
-#### The things already learned can be listed as follow ##
+#### The things already learned can be listed as follow 
 1. artificial intelligence
 2. big data
 3. deep learning and machine Leaning
