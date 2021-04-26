@@ -23,4 +23,4 @@
 | 95  | 90 |
 
 
-[跳转至下一个markdown文件](ProfessionalEnglish/main/More.md)
+[跳转至下一个markdown文件](More.md)
