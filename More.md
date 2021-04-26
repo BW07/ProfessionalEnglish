@@ -70,4 +70,4 @@ def genDataList(dataRootPath, trainPercent=0.8):
 <hr>
 
 *back to the READEME.md*
-[README](ProfessionalEnglish/main/README.md)
+[README](README.md)
